@@ -9,7 +9,7 @@
 
 # xcode
 
-Xcode Plugin for [Oh My Fish][omf-link].
+Xcode Plugin for [Oh My Fish][omf-link]. Inspire based [oh-my-zsh/plugins/xcode][omz-xcode-link]
 
 ## Install
 
@@ -30,5 +30,5 @@ Please read the file: `xcode.fish`.
 [mit]:            http://opensource.org/licenses/MIT
 [author]:         http://github.com/icyleaf
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
+[omz-xcode-link]: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/xcode/xcode.plugin.zsh
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square

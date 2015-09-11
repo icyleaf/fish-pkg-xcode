@@ -20,7 +20,14 @@ $ omf install xcode
 
 ## Usage
 
-Please read the file: `xcode.fish`.
+function | description
+---|---
+xc | Find & Open Xcode project or workspace
+xcb | Alias to xcodebuild
+xcdd | Clear xcode derived data
+xcp | Show the path to the active developer directory
+xcsel | Set the path to the active developer directory
+simulator | Open iPhone Simulator app
 
 # License
 
